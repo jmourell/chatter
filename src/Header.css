@@ -1,0 +1,33 @@
+.landing-header {
+  max-width: 100%;
+  width: 100%;
+  padding: 5px 50px;
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.landing-header__anchor {
+  max-height: 100%;
+  max-width: 80px;
+}
+
+.landing-header__anchor-image {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.landing-header_label {
+  color: #f04328;
+}
+
+.landing-header_nav-list-container {
+}
+
+.landing-header_nav-list {
+  list-style-type: none;
+}
+
+.landing-header_nav-list-item {
+  text-align: right;
+}
