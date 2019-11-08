@@ -22,6 +22,9 @@
 }
 
 .landing-header_nav-list-container {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
 }
 
 .landing-header_nav-list {
